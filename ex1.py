@@ -1,0 +1,7 @@
+print "Hi my name is Slavik"
+print "YALOMAL STEKLOY"
+print "DRATYTI"
+print "DATVIDANINA"
+print "4to eto za bolezn`?"
+print "Eto MENSFIZIK"
+print "Poka rebyata!"
